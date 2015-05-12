@@ -1,2 +1,2 @@
-# open-scholarship-curriculum
-An open scholarship curriculum 
+# An open scholarship curriculum 
+
